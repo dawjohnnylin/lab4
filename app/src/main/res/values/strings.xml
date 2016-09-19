@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Localization 4x</string>
-    <string name="country">Canada</string>
+    <string name="country">Default</string>
 </resources>
